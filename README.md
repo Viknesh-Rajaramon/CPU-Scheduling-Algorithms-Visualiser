@@ -9,7 +9,7 @@ Scheduling algorithms visualization done as part of course project for Operating
 
 ## Algorithms done:
 
-- First Come First Serve 
+<input type = "checkbox"> First Come First Serve 
 - Shortest Job First (Pre-emptive)
 - Shortest Job First (Non Pre-emptive)
 - Priority Scheduling (Non Pre-emptive)
